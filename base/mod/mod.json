@@ -9,6 +9,5 @@
     "depends" : [],
     "breaks" : [],
 
-    "patches" : [],
-    "datafile_path" : "mod_data.win"
+    "patches" : []
 }
