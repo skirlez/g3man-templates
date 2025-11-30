@@ -1,4 +1,4 @@
-## /g3man folder
+## Type C template
 
 This folder contains:
 
