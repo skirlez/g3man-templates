@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "must_exist",
+  "name": "g3man_must_exist",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
