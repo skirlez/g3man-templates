@@ -8,6 +8,5 @@
     "target_patcher_version" : "1",
     "depends" : [],
     "breaks" : [],
-
     "patches" : []
 }
