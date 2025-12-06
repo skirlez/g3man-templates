@@ -3,7 +3,7 @@
   "name": "Test Profile",
   "separate_modded_save": false,
   "modded_save_name": "",
-  "mod_order": ["my_mod"],
+  "mod_order": ["template_mod"],
   "description": "This profile will get copied from base to out, and then it'll be merged by g3man",
   
   "version": "",

@@ -1,9 +1,7 @@
 igor
 out
-user-config.ini
-# Under no circumstance should you want a binary blob in your source tree.
-# If your mod depends on other mods and you want them to be in g3man/base,
-# each user must fetch those manually.
-**/*.win
-igor/hash.txt
+frida-config.ini
+base/*
+!base/mod/
 __pycache__
+frida-timestamp.txt
