@@ -295,7 +295,7 @@ def save_update_timestamp(offset):
 	except:
 		return True
 
-frida_version = 2
+frida_version = 3
 def check_update():
 	print("Checking for updates...")
 	print("Remember that you can disable this by setting CHECK_FOR_UPDATES=0 in frida-config.ini")
