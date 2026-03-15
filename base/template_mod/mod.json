@@ -4,9 +4,10 @@
     "description" : "This mod is a template! Please change this description!",
     "credits" : ["Me!"],
     "version" : "1.0.0",
-    "target_game_version" : "0.0.0",
-    "target_patcher_version" : "1",
+    "target_patcher_version" : 6,
     "depends" : [],
     "breaks" : [],
-    "patches" : []
+
+    "patches" : [],
+    "datafile_path" : "mod_data.win"
 }

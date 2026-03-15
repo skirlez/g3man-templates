@@ -1,7 +1,5 @@
-igor
+.frida
 out
-frida-config.ini
-base/*
-!base/mod/
+out.zip
+frida-user-config.jsonc
 __pycache__
-frida-timestamp.txt
